@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm extremly thankful for all those who have saved me countless hours of debugging. Thank you for helping me. 🧑🙏
 
 <!--
 **Centei/Centei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
